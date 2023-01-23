@@ -1,0 +1,15 @@
+C:\Users\OMEN\Documents\new\test16\bin\Debug\net6.0\test16.exe
+C:\Users\OMEN\Documents\new\test16\bin\Debug\net6.0\test16.deps.json
+C:\Users\OMEN\Documents\new\test16\bin\Debug\net6.0\test16.runtimeconfig.json
+C:\Users\OMEN\Documents\new\test16\bin\Debug\net6.0\test16.dll
+C:\Users\OMEN\Documents\new\test16\bin\Debug\net6.0\test16.pdb
+C:\Users\OMEN\Documents\new\test16\obj\Debug\net6.0\test16.csproj.AssemblyReference.cache
+C:\Users\OMEN\Documents\new\test16\obj\Debug\net6.0\test16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Documents\new\test16\obj\Debug\net6.0\test16.AssemblyInfoInputs.cache
+C:\Users\OMEN\Documents\new\test16\obj\Debug\net6.0\test16.AssemblyInfo.cs
+C:\Users\OMEN\Documents\new\test16\obj\Debug\net6.0\test16.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Documents\new\test16\obj\Debug\net6.0\test16.dll
+C:\Users\OMEN\Documents\new\test16\obj\Debug\net6.0\refint\test16.dll
+C:\Users\OMEN\Documents\new\test16\obj\Debug\net6.0\test16.pdb
+C:\Users\OMEN\Documents\new\test16\obj\Debug\net6.0\test16.genruntimeconfig.cache
+C:\Users\OMEN\Documents\new\test16\obj\Debug\net6.0\ref\test16.dll

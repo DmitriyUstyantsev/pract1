@@ -1,0 +1,15 @@
+C:\Users\OMEN\Documents\new\test18\bin\Debug\net6.0\test18.exe
+C:\Users\OMEN\Documents\new\test18\bin\Debug\net6.0\test18.deps.json
+C:\Users\OMEN\Documents\new\test18\bin\Debug\net6.0\test18.runtimeconfig.json
+C:\Users\OMEN\Documents\new\test18\bin\Debug\net6.0\test18.dll
+C:\Users\OMEN\Documents\new\test18\bin\Debug\net6.0\test18.pdb
+C:\Users\OMEN\Documents\new\test18\obj\Debug\net6.0\test18.csproj.AssemblyReference.cache
+C:\Users\OMEN\Documents\new\test18\obj\Debug\net6.0\test18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Documents\new\test18\obj\Debug\net6.0\test18.AssemblyInfoInputs.cache
+C:\Users\OMEN\Documents\new\test18\obj\Debug\net6.0\test18.AssemblyInfo.cs
+C:\Users\OMEN\Documents\new\test18\obj\Debug\net6.0\test18.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Documents\new\test18\obj\Debug\net6.0\test18.dll
+C:\Users\OMEN\Documents\new\test18\obj\Debug\net6.0\refint\test18.dll
+C:\Users\OMEN\Documents\new\test18\obj\Debug\net6.0\test18.pdb
+C:\Users\OMEN\Documents\new\test18\obj\Debug\net6.0\test18.genruntimeconfig.cache
+C:\Users\OMEN\Documents\new\test18\obj\Debug\net6.0\ref\test18.dll

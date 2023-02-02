@@ -1,0 +1,15 @@
+C:\Users\OMEN\Documents\new\test24\obj\Debug\net6.0\test24.csproj.AssemblyReference.cache
+C:\Users\OMEN\Documents\new\test24\obj\Debug\net6.0\test24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Documents\new\test24\obj\Debug\net6.0\test24.AssemblyInfoInputs.cache
+C:\Users\OMEN\Documents\new\test24\obj\Debug\net6.0\test24.AssemblyInfo.cs
+C:\Users\OMEN\Documents\new\test24\obj\Debug\net6.0\test24.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Documents\new\test24\bin\Debug\net6.0\test24.exe
+C:\Users\OMEN\Documents\new\test24\bin\Debug\net6.0\test24.deps.json
+C:\Users\OMEN\Documents\new\test24\bin\Debug\net6.0\test24.runtimeconfig.json
+C:\Users\OMEN\Documents\new\test24\bin\Debug\net6.0\test24.dll
+C:\Users\OMEN\Documents\new\test24\bin\Debug\net6.0\test24.pdb
+C:\Users\OMEN\Documents\new\test24\obj\Debug\net6.0\test24.dll
+C:\Users\OMEN\Documents\new\test24\obj\Debug\net6.0\refint\test24.dll
+C:\Users\OMEN\Documents\new\test24\obj\Debug\net6.0\test24.pdb
+C:\Users\OMEN\Documents\new\test24\obj\Debug\net6.0\test24.genruntimeconfig.cache
+C:\Users\OMEN\Documents\new\test24\obj\Debug\net6.0\ref\test24.dll

@@ -1,0 +1,15 @@
+C:\Users\OMEN\Documents\new\test20\bin\Debug\net6.0\test20.exe
+C:\Users\OMEN\Documents\new\test20\bin\Debug\net6.0\test20.deps.json
+C:\Users\OMEN\Documents\new\test20\bin\Debug\net6.0\test20.runtimeconfig.json
+C:\Users\OMEN\Documents\new\test20\bin\Debug\net6.0\test20.dll
+C:\Users\OMEN\Documents\new\test20\bin\Debug\net6.0\test20.pdb
+C:\Users\OMEN\Documents\new\test20\obj\Debug\net6.0\test20.csproj.AssemblyReference.cache
+C:\Users\OMEN\Documents\new\test20\obj\Debug\net6.0\test20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Documents\new\test20\obj\Debug\net6.0\test20.AssemblyInfoInputs.cache
+C:\Users\OMEN\Documents\new\test20\obj\Debug\net6.0\test20.AssemblyInfo.cs
+C:\Users\OMEN\Documents\new\test20\obj\Debug\net6.0\test20.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Documents\new\test20\obj\Debug\net6.0\test20.dll
+C:\Users\OMEN\Documents\new\test20\obj\Debug\net6.0\refint\test20.dll
+C:\Users\OMEN\Documents\new\test20\obj\Debug\net6.0\test20.pdb
+C:\Users\OMEN\Documents\new\test20\obj\Debug\net6.0\test20.genruntimeconfig.cache
+C:\Users\OMEN\Documents\new\test20\obj\Debug\net6.0\ref\test20.dll

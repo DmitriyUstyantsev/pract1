@@ -1,0 +1,15 @@
+C:\Users\OMEN\Documents\new\test23\bin\Debug\net6.0\test23.exe
+C:\Users\OMEN\Documents\new\test23\bin\Debug\net6.0\test23.deps.json
+C:\Users\OMEN\Documents\new\test23\bin\Debug\net6.0\test23.runtimeconfig.json
+C:\Users\OMEN\Documents\new\test23\bin\Debug\net6.0\test23.dll
+C:\Users\OMEN\Documents\new\test23\bin\Debug\net6.0\test23.pdb
+C:\Users\OMEN\Documents\new\test23\obj\Debug\net6.0\test23.csproj.AssemblyReference.cache
+C:\Users\OMEN\Documents\new\test23\obj\Debug\net6.0\test23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Documents\new\test23\obj\Debug\net6.0\test23.AssemblyInfoInputs.cache
+C:\Users\OMEN\Documents\new\test23\obj\Debug\net6.0\test23.AssemblyInfo.cs
+C:\Users\OMEN\Documents\new\test23\obj\Debug\net6.0\test23.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Documents\new\test23\obj\Debug\net6.0\test23.dll
+C:\Users\OMEN\Documents\new\test23\obj\Debug\net6.0\refint\test23.dll
+C:\Users\OMEN\Documents\new\test23\obj\Debug\net6.0\test23.pdb
+C:\Users\OMEN\Documents\new\test23\obj\Debug\net6.0\test23.genruntimeconfig.cache
+C:\Users\OMEN\Documents\new\test23\obj\Debug\net6.0\ref\test23.dll

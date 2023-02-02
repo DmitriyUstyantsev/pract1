@@ -1,0 +1,15 @@
+C:\Users\OMEN\Documents\new\test27\bin\Debug\net6.0\test27.exe
+C:\Users\OMEN\Documents\new\test27\bin\Debug\net6.0\test27.deps.json
+C:\Users\OMEN\Documents\new\test27\bin\Debug\net6.0\test27.runtimeconfig.json
+C:\Users\OMEN\Documents\new\test27\bin\Debug\net6.0\test27.dll
+C:\Users\OMEN\Documents\new\test27\bin\Debug\net6.0\test27.pdb
+C:\Users\OMEN\Documents\new\test27\obj\Debug\net6.0\test27.csproj.AssemblyReference.cache
+C:\Users\OMEN\Documents\new\test27\obj\Debug\net6.0\test27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Documents\new\test27\obj\Debug\net6.0\test27.AssemblyInfoInputs.cache
+C:\Users\OMEN\Documents\new\test27\obj\Debug\net6.0\test27.AssemblyInfo.cs
+C:\Users\OMEN\Documents\new\test27\obj\Debug\net6.0\test27.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Documents\new\test27\obj\Debug\net6.0\test27.dll
+C:\Users\OMEN\Documents\new\test27\obj\Debug\net6.0\refint\test27.dll
+C:\Users\OMEN\Documents\new\test27\obj\Debug\net6.0\test27.pdb
+C:\Users\OMEN\Documents\new\test27\obj\Debug\net6.0\test27.genruntimeconfig.cache
+C:\Users\OMEN\Documents\new\test27\obj\Debug\net6.0\ref\test27.dll
